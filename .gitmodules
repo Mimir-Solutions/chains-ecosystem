@@ -1,18 +1,3 @@
-[submodule "contracts/holyzeppelin"]
-	path = contracts/holyzeppelin
-	url = git@github.com:cyotee/holyzeppelin.git
-[submodule "contracts/chains"]
-	path = contracts/chains
-	url = git@github.com:Mimir-Solutions/chains.git
-[submodule "contracts/authorization-protocol."]
-	path = contracts/authorization-protocol.
-	url = git@github.com:cyotee/authorization-protocol.git
-[submodule "contracts/quadratic-pricing-sales-protocol"]
-	path = contracts/quadratic-pricing-sales-protocol
-	url = git@github.com:cyotee/quadratic-pricing-sales-protocol.git
-[submodule "contracts/authorization-protocol"]
-	path = contracts/authorization-protocol
-	url = git@github.com:Mimir-Solutions/authorization-protocol.git
 [submodule "contracts/dependencies/mimir-solutions-sales-platform"]
 	path = contracts/dependencies/mimir-solutions-sales-platform
 	url = git@github.com:Mimir-Solutions/mimir-solutions-sales-platform.git
