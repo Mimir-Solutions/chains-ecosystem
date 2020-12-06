@@ -16,3 +16,6 @@
 [submodule "contracts/dependencies/holyzeppelin"]
 	path = contracts/dependencies/holyzeppelin
 	url = git@github.com:Mimir-Solutions/holyzeppelin.git
+[submodule "contracts/dependencies/pantheon-asset-management-protocol"]
+	path = contracts/dependencies/pantheon-asset-management-protocol
+	url = git@github.com:Mimir-Solutions/pantheon-asset-management-protocol.git
