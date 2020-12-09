@@ -1,9 +1,9 @@
-[submodule "contracts/dependencies/mimir-solutions-sales-platform"]
-	path = contracts/dependencies/mimir-solutions-sales-platform
-	url = git@github.com:Mimir-Solutions/mimir-solutions-sales-platform.git
 [submodule "contracts/dependencies/eris-token"]
 	path = contracts/dependencies/eris-token
 	url = git@github.com:Mimir-Solutions/eris-token.git
+[submodule "contracts/dependencies/mimir-solutions-sales-platform"]
+	path = contracts/dependencies/mimir-solutions-sales-platform
+	url = git@github.com:Mimir-Solutions/mimir-solutions-sales-platform.git
 [submodule "contracts/dependencies/kallisti-token"]
 	path = contracts/dependencies/kallisti-token
 	url = git@github.com:Mimir-Solutions/kallisti-token.git
@@ -13,9 +13,9 @@
 [submodule "contracts/dependencies/holyzeppelin"]
 	path = contracts/dependencies/holyzeppelin
 	url = git@github.com:Mimir-Solutions/holyzeppelin.git
-[submodule "contracts/dependencies/pantheon-asset-management-protocol"]
-	path = contracts/dependencies/pantheon-asset-management-protocol
-	url = git@github.com:Mimir-Solutions/pantheon-asset-management-protocol.git
-[submodule "auditing_platform"]
-	path = auditing_platform
-	url = git@github.com:Mimir-Solutions/auditing_platform.git
+[submodule "contracts/dependencies/authorization-platform"]
+	path = contracts/dependencies/authorization-platform
+	url = git@github.com:Mimir-Solutions/authorization-platform.git
+[submodule "contracts/dependencies/pantheon-asset-management-platform"]
+	path = contracts/dependencies/pantheon-asset-management-platform
+	url = git@github.com:Mimir-Solutions/pantheon-asset-management-platform.git
