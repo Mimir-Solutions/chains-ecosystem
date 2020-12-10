@@ -16,6 +16,3 @@
 [submodule "contracts/dependencies/tokens/eris-token"]
 	path = contracts/dependencies/tokens/eris-token
 	url = git@github.com:Mimir-Solutions/eris-token.git
-[submodule "contracts/dependencies/tokens/kallisti-token"]
-	path = contracts/dependencies/tokens/kallisti-token
-	url = git@github.com:Mimir-Solutions/kallisti-token.git
