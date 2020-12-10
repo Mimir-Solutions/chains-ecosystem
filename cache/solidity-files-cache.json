@@ -1,0 +1,109 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "D:\\dev\\github-mimir-solutions\\mimir-projects\\pantheon-ecosystem\\contracts\\Greeter.sol": {
+      "lastModificationDate": 1607559501592,
+      "contentHash": "8e4b943890d396929e7d2875c8d47222",
+      "sourceName": "contracts/Greeter.sol",
+      "solcConfig": {
+        "version": "0.7.5",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "hardhat/console.sol"
+      ],
+      "versionPragmas": [
+        "^0.7.0"
+      ],
+      "artifacts": [
+        "Greeter"
+      ]
+    },
+    "D:\\dev\\github-mimir-solutions\\mimir-projects\\pantheon-ecosystem\\node_modules\\hardhat\\console.sol": {
+      "lastModificationDate": 1607560335549,
+      "contentHash": "c20b2460755f312099ccd61427237ded",
+      "sourceName": "hardhat/console.sol",
+      "solcConfig": {
+        "version": "0.7.5",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.4.22 <0.8.0"
+      ],
+      "artifacts": [
+        "console"
+      ]
+    },
+    "D:\\dev\\github-mimir-solutions\\mimir-projects\\pantheon-ecosystem\\contracts\\Migrations.sol": {
+      "lastModificationDate": 1604994532885,
+      "contentHash": "ca8d6ca8a6edf34f149a5095a8b074c9",
+      "sourceName": "contracts/Migrations.sol",
+      "solcConfig": {
+        "version": "0.7.5",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.4.22 <0.8.0"
+      ],
+      "artifacts": [
+        "Migrations"
+      ]
+    }
+  }
+}
