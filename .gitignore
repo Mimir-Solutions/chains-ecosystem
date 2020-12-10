@@ -1,7 +1,7 @@
 node_modules
 
 #Hardhat files
-cache
 artifacts
 
 workspace.code-workspace
+cache/
